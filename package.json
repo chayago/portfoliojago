@@ -1,9 +1,9 @@
 {
-  "name": "winXP",
+  "name": "Portfolio",
   "version": "0.1.0",
   "private": true,
-  "author": "ShizukuIchi <shizukuichi@gmail.com>",
-  "homepage": "https://winxp.now.sh",
+  "author": "Yasmine <jagocy@gmail.com>",
+  "homepage": "https://jagowork.herokuapp.com/",
   "dependencies": {
     "lodash.samplesize": "^4.2.0",
     "react": "^16.8.6",
