@@ -161,7 +161,7 @@ const StyledWindow = styled(Window)`
     position: absolute;
     left: 0;
     opacity: ${({ isFocus }) => (isFocus ? 1 : 0.3)};
-    background: linear-gradient(to right, #C6900 0%, transparent 100%);
+    background: linear-gradient(to right, #000000 0%, transparent 100%);
     top: 0;
     bottom: 0;
     width: 15px;
@@ -172,7 +172,7 @@ const StyledWindow = styled(Window)`
     display: block;
     position: absolute;
     right: 0;
-    background: linear-gradient(to left, #C6900 0%, transparent 100%);
+    background: linear-gradient(to left, #000000 0%, transparent 100%);
     top: 0;
     bottom: 0;
     width: 15px;

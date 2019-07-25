@@ -25,7 +25,7 @@ function Main({ onSearch, className }) {
         <img
           className="logo"
           alt="Google"
-          src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+          src="https://i.ibb.co/H7NqspN/cv.png"
         />
         <div className="search-bar">
           <input
@@ -33,7 +33,7 @@ function Main({ onSearch, className }) {
             type="text"
             name="search"
             onChange={onChange}
-            value={value}
+            value={'Download CV in PDF'}
             onKeyDown={onKeyDown}
           />
           <div className="icon">
@@ -43,11 +43,12 @@ function Main({ onSearch, className }) {
             />
           </div>
         </div>
-        <div className="buttons">
-          <button onClick={onClick} id="enter">
-            Google Search
-          </button>
-          <button>I'm Feeling Lucky</button>
+        <div className="buttons"><form action="https://docdro.id/V2MOWD4" download target="_blank">
+          <button id="enter">
+            Download
+          </button></form>
+          <form action="http://www.linkedin.com/in/yjago" target="_blank">
+          <button>I'm Feeling Lucky</button></form>
         </div>
       </section>
       <footer>
