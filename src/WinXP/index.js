@@ -359,7 +359,7 @@ const Container = styled.div`
   height: 100%;
   overflow: hidden;
   position: relative;
-  background: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_960_720.png) no-repeat center center fixed;
+  background: url(http://hdqwalls.com/wallpapers/abstract-yellow-simple-background-4k-cg.jpg) no-repeat center center fixed;
   background-size: cover;
   animation: ${({ state }) => animation[state]} 5s forwards;
   *:not(input):not(textarea) {
